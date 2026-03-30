@@ -10,8 +10,6 @@
 | **Course**          | Open-Source Software                 |
 | **Slot**            | D11                                  |
 | **Date**            | 30/03/2026                           |
-| **Chosen Software** | Python Programming Language 3.x      |
-| **License**         | Python Software Foundation (PSF) v2  |
 | **Platform**        | Linux (Ubuntu 22.04 LTS)             |
 
 ---
